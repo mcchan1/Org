@@ -15,7 +15,6 @@ echo "
 &emsp; &emsp; &emsp; &emsp;  
 <a href=$_SERVER[PHP_SELF]?action=print&file=$rootdir[dirname]/$filenameX>Print</a>
   &emsp;  &emsp;  &emsp;  
-<a href=https://github.com/CommonAccord/Org/blob/master/Doc/$rootdir[dirname]/$filenameX>GitHub</a>
 
 ";
 
